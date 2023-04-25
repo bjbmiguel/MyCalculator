@@ -4,7 +4,7 @@ public class Principal {
 
     public static void main(String[] args) {
 
-      double resultado =   Opearation.soma(2, 7);
+      double resultado =   Opearation.subtrair(2, 7);
 
         System.out.println("Resultado da operação = " + resultado);
 
