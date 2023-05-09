@@ -4,7 +4,6 @@ import java.util.Objects;
 
 public class  Opearation {
 
-
     private Opearation() {
     }
 
@@ -26,6 +25,16 @@ public class  Opearation {
         }
 
         return (valor1 - valor2);
+    }
+
+    public static double multiplicar(double valor1, double valor2){
+
+        if(Objects.isNull(valor1) || Objects.isNull(valor2)){
+
+            throw new IllegalArgumentException("O valor inválido, verifica os parâmetros...");
+        }
+
+        return (valor1 * valor2);
     }
 
 
