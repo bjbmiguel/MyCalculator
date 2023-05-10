@@ -27,3 +27,17 @@ _Adicão do método_ **fatorial** como método privado
 ## Links interessantes
 
 [Google](https://www.google.com/)
+
+### Código do método somar
+
+```java
+public static double soma(double valor1, double valor2){
+
+        if(Objects.isNull(valor1) || Objects.isNull(valor2)){
+
+            throw new IllegalArgumentException("O valor inválido, verifica os parâmetros...");
+        }
+
+        return (valor1 + valor2);
+    }
+```
