@@ -9,3 +9,8 @@ Somar, Multiplicar, Subtrair
 ### Melhorias no Projecto
 
 _Adicão do método_ **fatorial** como método privado
+
+### Lista de Pendentes
+
+* Ficheiro de log
+* Tratamento de excepção
