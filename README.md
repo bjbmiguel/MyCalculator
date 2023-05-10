@@ -8,4 +8,4 @@ Somar, Multiplicar, Subtrair
 
 ### Melhorias no Projecto
 
-Adicão do método **fatorial** como método privado
+_Adicão do método_ **fatorial** como método privado
