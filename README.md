@@ -23,3 +23,7 @@ _Adicão do método_ **fatorial** como método privado
 ### Imagem Local
 
 ![Math API](image/t1-overview.png)
+
+## Links interessantes
+
+[Google](https://www.google.com/)
