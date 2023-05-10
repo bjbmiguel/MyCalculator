@@ -45,4 +45,4 @@ public static double soma(double valor1, double valor2){
 ### Lista de Tarefas a fazer
 
 - [X] Função dividri
-- [] Tratamento de exceção
+- [ ] Tratamento de exceção
