@@ -14,3 +14,8 @@ _Adicão do método_ **fatorial** como método privado
 
 * Ficheiro de log
 * Tratamento de excepção
+
+### Lista API por consumit
+
+1. MathAPI
+2. IntegralAPI
