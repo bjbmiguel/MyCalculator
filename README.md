@@ -7,3 +7,5 @@ This repo has been created as test in order to understand how work as team in a 
 Somar, Multiplicar, Subtrair
 
 ### Melhorias no Projecto
+
+Adicão do método **fatorial** como método privado
