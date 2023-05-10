@@ -19,3 +19,7 @@ _Adicão do método_ **fatorial** como método privado
 
 1. MathAPI
 2. IntegralAPI
+
+### Imagem Local
+
+![Math API](image/t1-overview.png)
