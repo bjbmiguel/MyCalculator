@@ -5,3 +5,5 @@ This repo has been created as test in order to understand how work as team in a 
 ## Funcionalidades
 
 Somar, Multiplicar, Subtrair
+
+### Melhorias no Projecto
